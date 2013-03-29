@@ -1,2 +1,1 @@
-hschnegg.github.com
-===================
+My personal blog, or my attempt to build a blog with Jekyll!
