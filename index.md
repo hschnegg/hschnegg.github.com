@@ -1,12 +1,10 @@
 ---
 layout: page
-title: ...thoughts on data analysis
+title: Herve Schnegg
 ---
 {% include JB/setup %}
 
-My attempt to build a Jekyll's blog...
-
-Posts list
+**Blog Posts**
 
 <ul class="posts">
   {% for post in site.posts %}
