@@ -1,1 +1,1 @@
-My personal blog, or my attempt to build a blog with Jekyll!
+This is my personal blog!
