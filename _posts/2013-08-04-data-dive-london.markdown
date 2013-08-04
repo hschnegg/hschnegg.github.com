@@ -8,7 +8,7 @@ I was planning to write a little summary of last weekend DataKind's DataDive. Bu
 
 A DataDive is a weekend event organised by [DataKind](http://datakind.org/) (and [DataKind UK](http://datakind.org.uk/)) where social organisations with data problems - but no internal resources to tackle them - meet data professionals ready to help by giving some of their spare time.
 
-![datadive's participants](/_images/datadive.gif)
+![datadive's participants](/assets/datadive.gif)
 
 Here are some of my feelings a week after the event.
 
