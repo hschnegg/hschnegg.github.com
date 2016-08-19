@@ -4,7 +4,7 @@
  <title>Herve Schnegg</title>
  <link href="http://herveschnegg.com/" rel="self"/>
  <link href="http://herveschnegg.com"/>
- <updated>2013-08-04T21:30:44+01:00</updated>
+ <updated>2016-08-19T22:56:15+01:00</updated>
  <id>http://herveschnegg.com</id>
  <author>
    <name>Herve Schnegg</name>
@@ -17,11 +17,12 @@
    <link href="http://herveschnegg.com/2013/08/04/data-dive-london"/>
    <updated>2013-08-04T00:00:00+01:00</updated>
    <id>http://herveschnegg.com/2013/08/04/data-dive-london</id>
-   <content type="html">&lt;p&gt;I was planning to write a little summary of last weekend DataKind&amp;#8217;s DataDive. But now that some of the best journalists already published theirs (&lt;a href='http://www.economist.com/blogs/graphicdetail/2013/07/data-do-gooders?fsrc=scn/tw_ec/hacking_for_humanity'&gt;The Economist&lt;/a&gt;, &lt;a href='http://www.theguardian.com/news/datablog/2013/jul/30/corporate-analysts-collaborate-charities-tackle-social-issues'&gt;The Guardian&lt;/a&gt;), I will limit myself to some more personal notes!&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;I was planning to write a little summary of last weekend DataKind’s DataDive. But now that some of the best journalists already published theirs (&lt;a href=&quot;http://www.economist.com/blogs/graphicdetail/2013/07/data-do-gooders?fsrc=scn/tw_ec/hacking_for_humanity&quot;&gt;The Economist&lt;/a&gt;, &lt;a href=&quot;http://www.theguardian.com/news/datablog/2013/jul/30/corporate-analysts-collaborate-charities-tackle-social-issues&quot;&gt;The Guardian&lt;/a&gt;), I will limit myself to some more personal notes!&lt;/p&gt;
 
-&lt;p&gt;A DataDive is a weekend event organised by &lt;a href='http://datakind.org/'&gt;DataKind&lt;/a&gt; (and &lt;a href='http://datakind.org.uk/'&gt;DataKind UK&lt;/a&gt;) where social organisations with data problems - but no internal resources to tackle them - meet data professionals ready to help by giving some of their spare time.&lt;/p&gt;
+&lt;p&gt;A DataDive is a weekend event organised by &lt;a href=&quot;http://datakind.org/&quot;&gt;DataKind&lt;/a&gt; (and &lt;a href=&quot;http://datakind.org.uk/&quot;&gt;DataKind UK&lt;/a&gt;) where social organisations with data problems - but no internal resources to tackle them - meet data professionals ready to help by giving some of their spare time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='datadives participants' src='/assets/datadive.gif' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/datadive.gif&quot; alt=&quot;datadive's participants&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Here are some of my feelings a week after the event.&lt;/p&gt;
 
@@ -37,9 +38,10 @@
 
 &lt;p&gt;Satisfaction&lt;/p&gt;
 
-&lt;p&gt;Talking to great people, receiving the organisations&amp;#8217; feedbacks, being part of all the positive things happening there felt great. An &amp;#8220;amazing&amp;#8221; experience as a certain organiser would put it!&lt;/p&gt;
+&lt;p&gt;Talking to great people, receiving the organisations’ feedbacks, being part of all the positive things happening there felt great. An “amazing” experience as a certain organiser would put it!&lt;/p&gt;
 
-&lt;p&gt;I am proud of having been part of that event and I hope to be there for the next one with more skills to bring to the community.&lt;/p&gt;</content>
+&lt;p&gt;I am proud of having been part of that event and I hope to be there for the next one with more skills to bring to the community.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
@@ -47,15 +49,17 @@
    <link href="http://herveschnegg.com/2013/04/03/about-this-blog"/>
    <updated>2013-04-03T00:00:00+01:00</updated>
    <id>http://herveschnegg.com/2013/04/03/about-this-blog</id>
-   <content type="html">&lt;p&gt;I have never been a heavy blogger; however, I like to have a space where I can occasionally publish my thoughts on (mainly) data analysis.&lt;/p&gt;
+   <content type="html">
+&lt;p&gt;I have never been a heavy blogger; however, I like to have a space where I can occasionally publish my thoughts on (mainly) data analysis.&lt;/p&gt;
 
 &lt;p&gt;I had to reevaluate my options after Twitter announced the end of Posterous. I had tried Wordpress and Blogger in the past but never really felt comfortable with them. So, I finally decided to go for something quite different.&lt;/p&gt;
 
 &lt;p&gt;This blog is built with Jekyll, a static site generator, and hosted on GitHub. That means that I can write locally on my machine in a text editor and then generate the site locally before it is pushed to GitHub.&lt;/p&gt;
 
-&lt;p&gt;I used Jekyll Bootstrap and Tom Preston-Werner&amp;#8217;s theme to avoid the pain of manually designing something nice!&lt;/p&gt;
+&lt;p&gt;I used Jekyll Bootstrap and Tom Preston-Werner’s theme to avoid the pain of manually designing something nice!&lt;/p&gt;
 
-&lt;p&gt;I like what I learnt so far! Let&amp;#8217;s see how that works out&amp;#8230;&lt;/p&gt;</content>
+&lt;p&gt;I like what I learnt so far! Let’s see how that works out…&lt;/p&gt;
+</content>
  </entry>
  
  

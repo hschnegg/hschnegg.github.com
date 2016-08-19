@@ -1,13 +1,13 @@
 
-http://herveschnegg.com/about.html
-http://herveschnegg.com/archive.html
+http://herveschnegg.com/about
+http://herveschnegg.com/archive
 http://herveschnegg.com/atom.xml
-http://herveschnegg.com/categories.html
-http://herveschnegg.com/index.html
-http://herveschnegg.com/pages.html
+http://herveschnegg.com/categories
+http://herveschnegg.com/
+http://herveschnegg.com/pages
 http://herveschnegg.com/rss.xml
 http://herveschnegg.com/sitemap.txt
-http://herveschnegg.com/tags.html
+http://herveschnegg.com/tags
 
 http://herveschnegg.com/2013/08/04/data-dive-london
 http://herveschnegg.com/2013/04/03/about-this-blog
