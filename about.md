@@ -6,6 +6,6 @@ title : about
 
 Thank you for visiting my personal blog!
 
-I am a London based data geek with a long experience in data warehousing and business intelligence. I currently work as a Data Scientist at [Bright North](http://www.brightnorth.co.uk/).
+I am a London based data scientist who has been playing in the data circus for long enough to know some elements of data warehousing, data integration, business intelligence, statistical learning, machine learning...
 
 More details about my CV can be found on my [LinkedIn profile](http://uk.linkedin.com/in/herveschnegg/).

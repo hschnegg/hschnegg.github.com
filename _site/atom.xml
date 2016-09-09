@@ -4,7 +4,7 @@
  <title>Herve Schnegg</title>
  <link href="http://herveschnegg.com/" rel="self"/>
  <link href="http://herveschnegg.com"/>
- <updated>2016-08-19T23:56:27+01:00</updated>
+ <updated>2016-09-09T15:57:54+01:00</updated>
  <id>http://herveschnegg.com</id>
  <author>
    <name>Herve Schnegg</name>
@@ -50,13 +50,13 @@
    <updated>2013-04-03T00:00:00+01:00</updated>
    <id>http://herveschnegg.com/2013/04/03/about-this-blog</id>
    <content type="html">
-&lt;p&gt;I have never been a heavy blogger; however, I like to have a space where I can occasionally publish my thoughts on (mainly) data analysis.&lt;/p&gt;
+&lt;p&gt;I have never been a heavy blogger; however, I like to have a space where I can occasionally publish my thoughts on (mainly) data related topics.&lt;/p&gt;
 
 &lt;p&gt;I had to reevaluate my options after Twitter announced the end of Posterous. I had tried Wordpress and Blogger in the past but never really felt comfortable with them. So, I finally decided to go for something quite different.&lt;/p&gt;
 
-&lt;p&gt;This blog is built with Jekyll, a static site generator, and hosted on GitHub. That means that I can write locally on my machine in a text editor and then generate the site locally before it is pushed to GitHub.&lt;/p&gt;
+&lt;p&gt;This blog is built with &lt;a href=&quot;https://jekyllrb.com/&quot; title=&quot;Jekyll&quot;&gt;Jekyll&lt;/a&gt;, a static site generator, and hosted on &lt;a href=&quot;https://github.com/&quot; title=&quot;GitHub&quot;&gt;GitHub&lt;/a&gt;. That means that I can write locally on my machine, in a text editor, and then generate the site locally before it is pushed to GitHub.&lt;/p&gt;
 
-&lt;p&gt;I used Jekyll Bootstrap and Tom Preston-Werner’s theme to avoid the pain of manually designing something nice!&lt;/p&gt;
+&lt;p&gt;I used &lt;a href=&quot;http://themes.jekyllbootstrap.com/preview/tom/&quot;&gt;Jekyll Bootstrap and Tom Preston-Werner’s theme&lt;/a&gt; to avoid the pain of manually designing something nice!&lt;/p&gt;
 
 &lt;p&gt;I like what I learnt so far! Let’s see how that works out…&lt;/p&gt;
 </content>
