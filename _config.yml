@@ -130,6 +130,3 @@ JB :
   
   # Produces an index for related posts.
   lsi: true
-
-google_analytics:
-  id: "G-WFZXPVYVJR"
