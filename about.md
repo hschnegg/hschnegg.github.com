@@ -4,8 +4,12 @@ title : about
 ---
 {% include JB/setup %}
 
-Thank you for visiting my personal blog!
+Welcome to my blog! I am a London based data science leader with over 20 years of experience turning data into business impact.
 
-I am a London based data scientist who has been playing in the data circus for long enough to know some elements of data warehousing, data integration, business intelligence, statistical learning, machine learning...
+I have built and led data teams at organisations ranging from startups to established companies, most recently as Head of Data Science at The Economist Group. My work spans the full data spectrum, from building robust data infrastructure to deploying AI solutions that drive content personalisation, customer retention and marketing optimisation.
 
-More details about my CV can be found on my [LinkedIn profile](http://uk.linkedin.com/in/herveschnegg/).
+I am passionate about solving complex business problems with data and helping organisations unlock the strategic value hidden in their information. I also enjoy mentoring data professionals and helping teams transition from academic research to commercial success.
+
+Here I share insights on data science leadership, practical AI applications and lessons learned from building data driven products that matter.
+
+Connect with me on [LinkedIn profile](https://www.linkedin.com/in/herveschnegg/) for more about my background and experience.
